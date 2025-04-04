@@ -1,4 +1,4 @@
-# FinanceDataGenerator
+# FinSim
 A python app used to create structured fake finance data to simulate big data processing.
 
 This is a v1 of end-to-end Data Engineering project which is generating fake data but a structured one. This fake data can be further used for ETL/ELT and Data analysis.
